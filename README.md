@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nyan-Doggo
-- 📫 you can email me at uwu.nyandoggo@gmail.com
+- 📫 you can reach me on discord if you want -> にゃん#0001
+
 
 <!---
 Nyan-Doggo/Nyan-Doggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
