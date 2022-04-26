@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Nyan-Doggo
-- 📫 you can reach me on discord if you want -> にゃん#0001
+# Hi, I’m @Nyan-Doggo
+
+📫 you can reach me on discord if you want -> にゃん#0001
 
 
 <!---
