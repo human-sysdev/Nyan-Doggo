@@ -1,6 +1,6 @@
 # ✨Hi, I’m @Nyan-Doggo✨
 
-📫 you can reach me on discord if you want -> にゃん#0001
+📫 you can reach me on discord if you want -> nyan#0069
 
 (i also have my email uwu@nyandoggo.com)
 
