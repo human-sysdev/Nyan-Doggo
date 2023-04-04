@@ -1,4 +1,4 @@
-# ✨Hi, I’m @Nyan-Doggo✨
+# ✨Hi, I’m Nyan✨
 
 📫 you can reach me on discord if you want -> nyan#0069
 
