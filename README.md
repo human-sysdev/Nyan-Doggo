@@ -1,11 +1,9 @@
-# ✨Hi, I’m Nyan✨
+## 💉 Wruff wruff awooo 🐺🩸
+reachable on email at uwu@nyandoggo.com,
+discord is nyan#0069
 
-📫 you can reach me on discord if you want -> nyan#0069
+* fulltime profesional systems developer 👷‍♂️
+* hobbyist full-stack projects 🤓
+* more about me -> [nyandoggo.com](https://www.nyandoggo.com) 🤡💦
 
-(i also have my email uwu@nyandoggo.com)
-
-
-<!---
-Nyan-Doggo/Nyan-Doggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Personal projects include `www.furkin.chat`  and `www.nyandoggo.com`, profesional work mostly consists of customizing Office365 applications and documents, in addition to internal tooling, usually written in Python.
