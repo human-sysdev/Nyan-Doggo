@@ -7,3 +7,5 @@ discord is nyan#0069
 * more about me -> [nyandoggo.com](https://www.nyandoggo.com) 🤡💦
 
 Personal projects include `www.furkin.chat`  and `www.nyandoggo.com`, profesional work mostly consists of customizing Office365 applications and documents, in addition to internal tooling, usually written in Python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
