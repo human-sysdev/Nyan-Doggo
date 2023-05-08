@@ -1,4 +1,5 @@
-## 💉 Wruff wruff awooo 🐺🩸
+# Nyan 🐺
+### 💉🩸 wruff wruff awooo 🩸💉
 reachable on email at uwu@nyandoggo.com,
 discord is nyan#0069
 
