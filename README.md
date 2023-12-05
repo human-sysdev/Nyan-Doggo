@@ -7,5 +7,3 @@ reachable on email at uwu@nyandoggo.com,
 * more about me -> [nyandoggo.com](https://www.nyandoggo.com) 🤡💦
 
 Personal projects include `www.nyandoggo.com`
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyan-Doggo&show_icons=true&theme=tokyonight&count_private=true)
