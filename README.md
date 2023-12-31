@@ -1,4 +1,3 @@
-# Dev.Nya 🐺
 ### 💉🩸 safe for human consumption 🩸💉
 
 * fulltime profesional systems developer 👷‍♂️
